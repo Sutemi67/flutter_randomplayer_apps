@@ -10,8 +10,13 @@ dependencies:
   flutter:
     sdk: flutter
   video_player: ^2.8.0
+  video_player_win: ^2.3.6
   path_provider: ^2.1.1
   window_manager: ^0.3.8
+  path: ^1.8.0
+  media_kit: ^1.1.10
+  media_kit_video: ^1.1.10
+  media_kit_libs_windows_video: ^1.0.4 
 
 dev_dependencies:
   flutter_test:

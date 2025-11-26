@@ -3,7 +3,8 @@
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "C:/Users/user/AppData/Local/Pub/Cache/hosted/pub.dev/screen_retriever-0.1.9/example/windows"
             ],
             "defines": [
                 "_DEBUG",
